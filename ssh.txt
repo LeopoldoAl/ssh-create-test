@@ -1,2 +1,3 @@
 We add a new line
 We have added the second line.
+We are doing our part.
